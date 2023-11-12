@@ -24,7 +24,8 @@ O script solicitará o nome, idade, peso e altura do aluno.
 Ele calculará o IMC e classificará como "SOBREPESO" ou "PESO IDEAL".
 Será gerado um relatório em PDF personalizado.
 
-**4.Arquivos Gerados:**
+**4. Arquivos Gerados:**
+
 O relatório em PDF será salvo com o nome do aluno, seguido por "_relatorio.pdf".
 
 **Observações**
