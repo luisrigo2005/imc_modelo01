@@ -14,7 +14,7 @@ pip install fpdf openpyxl
 
 **1. Clone o Repositório:**
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone luisrigo2005/imc_modelo01
 
 cd seu-repositorio
 
